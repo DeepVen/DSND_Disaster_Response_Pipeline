@@ -101,10 +101,11 @@ Run the following command in the app's directory to run your web app.
 To view WebApp, go to http://0.0.0.0:3001/    
 
 **_Starting WebApp_**
+
 ![webapp_start](images/webapp_start.JPG)
 
 
-**_Screenshots from WebApp_**
+**Screenshots from WebApp**
 
 **_Training Dataset Overview_**
 
@@ -113,15 +114,15 @@ To view WebApp, go to http://0.0.0.0:3001/
 
 **_Category Distribution_**
 
-![category_distribution](images/category_distribution.jpg)
+![category_distribution](images/category_distribution.JPG)
 
 **_Top 5 frequently used words_**
 
-![top_5_words](images/top_5_words.jpg)
+![top_5_words](images/top_5_words.JPG)
 
 **_Message Classification_**
 
-![message_classification](images/message_classification.jpg)
+![message_classification](images/message_classification.JPG)
 
 
 
