@@ -20,7 +20,7 @@ app = Flask(__name__)
 def tokenize(text):
     '''
     Tokenize text data for further processing
-    Args:
+    Args: 
     text: Messages 
     Returns:
     clean_tokens: Tokenizing and lemmatizing of text and stop words removed.

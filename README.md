@@ -91,7 +91,7 @@ To run ETL pipeline that cleans data and stores in database
 To run ML pipeline that trains classifier and saves
         `python models/train_classifier.py data/DisasterResponse.db models/classifier.pkl`
 
-![etl_task](images/etl_task.JPG)
+![ml_task](images/ml_task.JPG)
 
 <a id='webapp'></a>
 

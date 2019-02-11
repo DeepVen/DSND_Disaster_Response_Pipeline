@@ -17,7 +17,7 @@ def load_data(database_filepath):
     '''
     Load data from SQLite file into a Dataframe and store data into Feature and Target Dataframes   
     Args:
-    database_filepath: SQLite file path 
+    database_filepath: SQLite file path  
     Returns:
     Feature Dataframe
     Target Dataframe
@@ -109,7 +109,7 @@ def save_model(model, model_filepath):
     N.A.
     """
     
-    # save model to pickle file
+    # save model to pickle file  
     pickle.dump(model, open(model_filepath, 'wb'))
 
 
